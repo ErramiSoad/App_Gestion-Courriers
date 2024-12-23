@@ -1,9 +1,8 @@
 App Gestion Courriers
 
-Description
 App Gestion Courriers is a web-based application designed to manage and organize incoming and outgoing mail efficiently. Built with native PHP, Bootstrap, CSS, and JavaScript, the app allows users to add, track, and categorize letters or packages in a user-friendly interface.
 
-Features
+Features : 
 User Authentication: Users can register and log in to access the system.
 Mail Management: Add, edit, and delete mail entries.
 Search and Filter: Easily search and filter mail based on various criteria.
@@ -17,19 +16,19 @@ JavaScript: Enhancing user interaction on the frontend.
 Installation
 Clone the repository:
 
-bash
+bash:
 Copier le code
 git clone https://github.com/ErramiSoad/App_Gestion-Courriers.git
 Navigate to the project directory:
 
-bash
+bash:
 Copier le code
 cd App_Gestion-Courriers
 Ensure you have XAMPP or another PHP server installed. Place the project in the htdocs directory if using XAMPP.
 
 Open the project in your browser by accessing http://localhost/App_Gestion-Courriers.
 
-Usage
+Usage: 
 Register an account or log in to an existing account.
 Add new mail by filling in the required details.
 Use the dashboard to view and manage your mails.
